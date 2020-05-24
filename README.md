@@ -1,3 +1,2 @@
 # IWD 2020
-its my new repository
-hello i am swarna
+This includes the 2nd day experience of hands on workshop on Neural Networks.
